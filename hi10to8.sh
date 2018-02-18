@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Author: Keith Patton 2016
-# Brief:  A BASH script for finding all video files
-#         within the current directory, and subdirectories, and converting from
-#         10bit Bit Depth to 8bit Bit Depth using ffmpeg
+# Author:	Keith Patton 2016
+# Brief:	A BASH script for finding all video files
+# 		within the current directory, and subdirectories, and converting from
+# 		10bit Bit Depth to 8bit Bit Depth using ffmpeg
 
 # DEFINE VARIABLES/CONSTANTS
 # Create multiple logs for each stage so they can be used for backup/recovery; error-checking; history; etc.
